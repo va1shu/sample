@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sp_instance" label="custom Table" max_length="40" name="x_1234_custom_table" sizeclass="0" type="collection"/>
+</database>

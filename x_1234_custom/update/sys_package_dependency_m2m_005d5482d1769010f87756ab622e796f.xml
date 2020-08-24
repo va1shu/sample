@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Portal - Core" source="com.glide.service-portal">bd2d4d6cb83610100c1d6f4d3e7964e4</dependency>
+        <min_version>1.1.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 07:18:12</sys_created_on>
+        <sys_id>005d5482d1769010f87756ab622e796f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="custom" source="x_1234_custom">634d1482d1769010f87756ab622e79b7</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 07:18:12</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

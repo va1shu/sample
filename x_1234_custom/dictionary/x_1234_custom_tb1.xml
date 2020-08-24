@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="tb1" max_length="40" name="x_1234_custom_tb1" type="collection">
+        <element choice="1" default="kjzsdv" display="true" function_definition="{}" function_field="true" label="l" max_length="23" name="la" read_only="true" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

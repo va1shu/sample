@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1234_custom.si1</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>testing</description>
+        <name>si1</name>
+        <script><![CDATA[//]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 12:01:55</sys_created_on>
+        <sys_id>c82ed9c6d1f69010f87756ab622e7930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>si1</sys_name>
+        <sys_package display_value="custom" source="x_1234_custom">634d1482d1769010f87756ab622e79b7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="custom">634d1482d1769010f87756ab622e79b7</sys_scope>
+        <sys_update_name>sys_script_include_c82ed9c6d1f69010f87756ab622e7930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 12:01:55</sys_updated_on>
+    </sys_script_include>
+</record_update>
